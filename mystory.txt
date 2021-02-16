@@ -1,4 +1,4 @@
 This is a long story to help with learning about Git and software change tracking and versioning.
 I hope that this story will help explain the git process and how to make commits. 
 I also hope to become more proficient in the git process and software version control within GITHUB.
-Without this git, you will easily lose version control
+Without git, you will easily lose version control
