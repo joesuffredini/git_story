@@ -1,0 +1,3 @@
+This is a short story to help with learning about Git and software change tracking.
+I hope that this story will help explain the git process and how to make commits. 
+I also hope to become proficient in the git process and software version control.
